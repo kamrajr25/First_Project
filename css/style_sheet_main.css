@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    height: 100%;
+}
+
+body
+{
+  text-align: center;
+  background: url("/img/background.jpg") fixed ;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+h1
+{
+  color: #396;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+
+a
+{
+  text-align: center;
+  border-style : dotted;
+  border-width: 1px;
+  border-color: green;
+  border-radius : 12px;
+  padding : 10px;
+}
