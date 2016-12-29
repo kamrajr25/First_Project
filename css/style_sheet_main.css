@@ -25,7 +25,17 @@ h1
   margin: 40px 0px 20px;
 }
 
-a
+a.footer-link
+{
+  color:white;
+}
+
+a.footer-link:hover
+{
+  color:pink;
+}
+
+.a-style
 {
   text-align: center;
   border-style : dotted;
@@ -37,9 +47,14 @@ a
   margin : 20px;
 }
 
-a:hover 
+.a-style:hover 
 {
   color:pink;
+}
+
+img
+{
+  border-radius: 8px;
 }
 
 .footer
@@ -48,12 +63,15 @@ width: 100%;
 height:20px;
 padding:10px;
 margin-bottom:10px;
-background-color: #b6e1fc;
+border :1px solid white;
+background-color: #e6f2ff;
 display: block;
 text-align: center;
 }
 
 .footer-text
 {
-  text
+  text-align: center;
+  color:white;
 }
+
