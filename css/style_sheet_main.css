@@ -12,7 +12,6 @@ html
 body
 {
   text-align: center;
-  background: url("/img/background.jpg") top right fixed ;
   font-family: sans-serif;
   font-weight: 100;
 }
@@ -44,6 +43,10 @@ img
   border-radius: 8px;
 }
 
+#home
+{
+  color:white;
+}
 
 /*Footer Style*/
 
@@ -95,4 +98,28 @@ a.footer-link:hover
   font-style: italic;
   color:pink;
   margin:0 500px;
+}
+
+
+.full_marriage {
+    background: url('/img/wedding.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.full_engagement {
+    background: url('/img/reception.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.body-back
+{
+  text-align: center;
+  background: url("/img/background.jpg") top right fixed ;
+  font-family: sans-serif;
+  font-weight: 100;
 }

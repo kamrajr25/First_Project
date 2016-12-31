@@ -2,7 +2,7 @@
 #clockmrg
 {
 	font-family: sans-serif;
-	color: #fff;
+	color: #b1b1b1;
 	display: inline-block;
 	font-weight: 100;
 	text-align: center;
@@ -13,7 +13,7 @@
 {
 	padding: 10px;
 	border-radius: 3px;
-	background: #00BF96;
+	background: #282828;
 	display: inline-block;
 }
 
@@ -21,7 +21,7 @@
 {
 	padding: 15px;
 	border-radius: 3px;
-	background: #00816A;
+	background: #6c6c6c;
 	display: inline-block;
 }
 
