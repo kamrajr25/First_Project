@@ -116,10 +116,10 @@ a.footer-link:hover
     background-size: cover;
     -o-background-size: cover;
 }
-.body-back
+.body_all
 {
   text-align: center;
-  background: url("/img/background.jpg") top right fixed ;
+  background: url("/img/background.jpg") repeat  fixed ;
   font-family: sans-serif;
   font-weight: 100;
 }
