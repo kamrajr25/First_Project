@@ -119,7 +119,9 @@ a.footer-link:hover
 .body_all
 {
   text-align: center;
-  background: url("/img/background.jpg") repeat  fixed ;
+  /*background: url("/img/background.jpg") repeat  fixed ;*/
   font-family: sans-serif;
   font-weight: 100;
 }
+
+
